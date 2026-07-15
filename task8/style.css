@@ -1,0 +1,17 @@
+.container-box{
+    background-color: lightcyan;
+    width: 424px;
+    border-left: 6px solid darkgray;
+    padding: 10px;
+}
+.container-box .info-badge{
+    background-color: lightblue;
+    color: darkblue;
+    border-radius: 20px;
+}
+
+.container-box .dismiss-button{
+    width: 100%;
+    display: flex;
+    
+}

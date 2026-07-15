@@ -1,0 +1,28 @@
+.profile-card{
+    width: 252px;
+    border: 4px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.user-photo{
+    width: 80px;
+    height: 80px;
+    background-color:grey;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.profile-card h2{
+    margin: 15px 0 0 0;
+}
+.profile-card p{
+    margin: 5px 0 20px 0;
+}
+
+#action-connect {
+    width: 100%;
+    background-color: blue;
+}
+#action-connect:hover{
+    background-color: darkblue;
+}

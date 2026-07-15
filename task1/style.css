@@ -1,0 +1,18 @@
+h2 {
+  font-size: 24px;
+}
+
+#featured-section h2 {
+  color: purple;
+}
+
+.container > p {
+  color: darkgrey;
+}
+#featured-section .text-content {
+  color: white;
+}
+
+.dark-box > .text-content + p {
+  font-family: italic;
+}
