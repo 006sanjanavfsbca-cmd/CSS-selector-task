@@ -9,9 +9,8 @@
     color: darkblue;
     border-radius: 20px;
 }
-
-.container-box .dismiss-button{
-    width: 100%;
+.dismiss-button{
     display: flex;
-    
+    justify-self: end;
+    margin: 10px;
 }
